@@ -1,0 +1,23 @@
+{
+  "name": "cs361_microservicea",
+  "version": "1.0.0",
+  "description": "Microservice A for gym logger",
+  "homepage": "https://github.com/KonstadinosAngelis/CS361_MicroserviceA#readme",
+  "bugs": {
+    "url": "https://github.com/KonstadinosAngelis/CS361_MicroserviceA/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KonstadinosAngelis/CS361_MicroserviceA.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
