@@ -34,6 +34,7 @@ app.get('/trip-info', (req, res) => {
   }
 
   // Valid input, return the data
+  console.log(planet, tripData[planet]);
   res.json(tripData[planet]);
 });
 
